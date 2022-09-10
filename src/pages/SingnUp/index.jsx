@@ -1,6 +1,6 @@
 import { useState } from 'react'; // criar estados
 
-import { api } from '../../../../Aulas/API/src/services/api';
+import { api } from '../../services/api';
 
 import { FiMail, FiLock, FiUser } from 'react-icons/fi';
 

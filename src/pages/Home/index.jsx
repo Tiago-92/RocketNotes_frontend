@@ -16,7 +16,7 @@ import { Section } from '../../components/Section';
 
 import { ButtonText } from '../../components/ButtonText';
 
-import { api } from '../../../../Aulas/API/src/services/api';
+import { api } from '../../services/api';
 
 export function Home(){
     const [tags, setTags] = useState();

@@ -1,4 +1,4 @@
-import { api } from '../../../../Aulas/API/src/services/api';
+import { api } from '../../services/api';
 
 import avatarPlaceholder from '../../assets/avatar_placeholder.svg'
 

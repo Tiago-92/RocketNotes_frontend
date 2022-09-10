@@ -1,5 +1,5 @@
 import { createContext, useContext, useState, useEffect } from "react";
-import { api } from "../../../Aulas/API/src/services/api";
+import { api } from "../services/api";
 
 export const AuthContext = createContext({}); // criar hook de contexto de autentitação para usar em toda a aplicação
 

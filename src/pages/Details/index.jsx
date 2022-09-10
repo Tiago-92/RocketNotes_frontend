@@ -8,7 +8,7 @@ import { Button } from '../../components/Button';
 import { Section } from '../../components/Section';
 import { Tag } from '../../components/Tags';
 import { ButtonText } from '../../components/ButtonText';
-import { api } from '../../../../Aulas/API/src/services/api';
+import { api } from '../../services/api';
 
 export function Details (){
   const [data, setData ] = useState(null);

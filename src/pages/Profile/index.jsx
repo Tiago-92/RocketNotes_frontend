@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { api } from '../../../../Aulas/API/src/services/api';
+import { api } from '../../services/api';
 
 import { FiArrowLeft, FiUser, FiMail, FiLock, FiCamera } from 'react-icons/fi';
 
